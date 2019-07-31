@@ -84,6 +84,11 @@ namespace JSonToCSV
 
     private void btnConvert_Click(object sender, EventArgs e)
     {
+      if (lstFiles.Items.Count == 0)
+      {
+        MessageBox.Show("No file to convert", Application.ProductName, MessageBoxButtons.OK, MessageBoxIcon.Information);
+        return;
+      }
       try
       {
         progressBar1.Value = 0;
