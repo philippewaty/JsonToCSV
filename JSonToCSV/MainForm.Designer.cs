@@ -29,6 +29,7 @@
     private void InitializeComponent()
     {
       this.components = new System.ComponentModel.Container();
+      System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
       this.label1 = new System.Windows.Forms.Label();
       this.lstFiles = new System.Windows.Forms.ListBox();
       this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
@@ -201,6 +202,7 @@
       this.Controls.Add(this.btnClear);
       this.Controls.Add(this.lstFiles);
       this.Controls.Add(this.label1);
+      this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
       this.Name = "MainForm";
       this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
       this.Text = "JSonToCSV";

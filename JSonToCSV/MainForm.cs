@@ -2,6 +2,7 @@
 using System;
 using System.Windows.Forms;
 using System.IO;
+using System.Reflection;
 
 namespace JSonToCSV
 {
@@ -14,7 +15,7 @@ namespace JSonToCSV
 
     private void MainForm_Load(object sender, EventArgs e)
     {
-      this.Text = $"{Application.ProductName} - {Application.ProductVersion}";
+      this.Text = $"{Application.ProductName} - {Assembly.GetExecutingAssembly().GetName().Version.Major}.{Assembly.GetExecutingAssembly().GetName().Version.Minor}.{Assembly.GetExecutingAssembly().GetName().Version.Revision}";
       chkSameFolder.Checked = Properties.Settings.Default.USE_OUTPUT_PATH;
       if (!string.IsNullOrEmpty(Properties.Settings.Default.OUPUT_PATH))
       {

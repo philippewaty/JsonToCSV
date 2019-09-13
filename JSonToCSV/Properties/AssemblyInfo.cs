@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("JSonToCSV")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Simple program to convert JSON files to CSV.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("JSonToCSV")]
-[assembly: AssemblyCopyright("Copyright © 2019")]
+[assembly: AssemblyCopyright("Copyright © 2019 Philippe Waty")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
