@@ -81,16 +81,6 @@ namespace JSonToCSV.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
-        /// </summary>
-        internal static System.Drawing.Icon json_file {
-            get {
-                object obj = ResourceManager.GetObject("json_file", resourceCulture);
-                return ((System.Drawing.Icon)(obj));
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap list_add {
