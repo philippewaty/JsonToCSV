@@ -38,7 +38,7 @@
     <StartupObject>JSonToCSV.Program</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>App-json.ico</ApplicationIcon>
+    <ApplicationIcon>Resources\Papirus-Team-Papirus-Mimetypes-App-json.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="ChoETL, Version=1.1.0.4, Culture=neutral, processorArchitecture=MSIL">
@@ -136,6 +136,8 @@
   <ItemGroup>
     <Content Include="App-json.ico" />
     <Content Include="Papirus-Team-Papirus-Mimetypes-App-json.ico" />
+    <None Include="Resources\Papirus-Team-Papirus-Mimetypes-App-json.ico" />
+    <None Include="Resources\json-file.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
