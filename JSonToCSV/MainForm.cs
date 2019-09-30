@@ -122,7 +122,7 @@ namespace JSonToCSV
       }
       catch (Exception ex)
       {
-        MessageBox.Show($"{ex.Message} {Environment.NewLine} {ex.StackTrace}", Application.ProductName, MessageBoxButtons.OK, MessageBoxIcon.Error);
+        Program.ShowError(ex);
       }
     }
 

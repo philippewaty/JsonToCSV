@@ -176,6 +176,8 @@
       this.txtOutputFolder.Name = "txtOutputFolder";
       this.txtOutputFolder.Size = new System.Drawing.Size(350, 20);
       this.txtOutputFolder.TabIndex = 6;
+      this.txtOutputFolder.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.FileSystemDirectories;
+      this.txtOutputFolder.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
       // 
       // progressBar1
       // 

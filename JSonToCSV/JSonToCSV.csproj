@@ -38,7 +38,7 @@
     <StartupObject>JSonToCSV.Program</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Resources\Papirus-Team-Papirus-Mimetypes-App-json.ico</ApplicationIcon>
+    <ApplicationIcon>App-json.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="ChoETL, Version=1.1.0.4, Culture=neutral, processorArchitecture=MSIL">
