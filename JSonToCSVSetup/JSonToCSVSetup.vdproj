@@ -16,7 +16,7 @@
         "Entry"
         {
         "MsmKey" = "8:_17764B222814B1DF2CED74CCC966D46B"
-        "OwnerKey" = "8:_EADC72F1DF3946D0863BD39401794C12"
+        "OwnerKey" = "8:_9A36A5525A584FD8B1850628817A8295"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -28,48 +28,48 @@
         "Entry"
         {
         "MsmKey" = "8:_52283E21FC6119C36A5B38753D1DB945"
-        "OwnerKey" = "8:_EADC72F1DF3946D0863BD39401794C12"
+        "OwnerKey" = "8:_9A36A5525A584FD8B1850628817A8295"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_9F4B6B45A6734BEEFE23A0CFA8774BE4"
-        "OwnerKey" = "8:_52283E21FC6119C36A5B38753D1DB945"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_9F4B6B45A6734BEEFE23A0CFA8774BE4"
-        "OwnerKey" = "8:_EADC72F1DF3946D0863BD39401794C12"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_B1917AEA3799284382D7C8BE121B8013"
-        "OwnerKey" = "8:_EADC72F1DF3946D0863BD39401794C12"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_B5966E8F7B9AB4772453F207525951B3"
-        "OwnerKey" = "8:_52283E21FC6119C36A5B38753D1DB945"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_B5966E8F7B9AB4772453F207525951B3"
-        "OwnerKey" = "8:_EADC72F1DF3946D0863BD39401794C12"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E4B114EE48B1414797D9C49752021665"
+        "MsmKey" = "8:_9A36A5525A584FD8B1850628817A8295"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_EADC72F1DF3946D0863BD39401794C12"
+        "MsmKey" = "8:_9F4B6B45A6734BEEFE23A0CFA8774BE4"
+        "OwnerKey" = "8:_52283E21FC6119C36A5B38753D1DB945"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9F4B6B45A6734BEEFE23A0CFA8774BE4"
+        "OwnerKey" = "8:_9A36A5525A584FD8B1850628817A8295"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B1917AEA3799284382D7C8BE121B8013"
+        "OwnerKey" = "8:_9A36A5525A584FD8B1850628817A8295"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B5966E8F7B9AB4772453F207525951B3"
+        "OwnerKey" = "8:_52283E21FC6119C36A5B38753D1DB945"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B5966E8F7B9AB4772453F207525951B3"
+        "OwnerKey" = "8:_9A36A5525A584FD8B1850628817A8295"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E4B114EE48B1414797D9C49752021665"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -82,19 +82,19 @@
         "Entry"
         {
         "MsmKey" = "8:_F8622AA8E3B5F0C2462AD8BCEFA8C5AF"
-        "OwnerKey" = "8:_EADC72F1DF3946D0863BD39401794C12"
+        "OwnerKey" = "8:_9A36A5525A584FD8B1850628817A8295"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_FAF893F425ED585645CA4AFE6D37076C"
-        "OwnerKey" = "8:_EADC72F1DF3946D0863BD39401794C12"
+        "OwnerKey" = "8:_9A36A5525A584FD8B1850628817A8295"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_FC43F116A9D9A2EF96A000FED0E43FF2"
-        "OwnerKey" = "8:_EADC72F1DF3946D0863BD39401794C12"
+        "OwnerKey" = "8:_9A36A5525A584FD8B1850628817A8295"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -112,7 +112,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_EADC72F1DF3946D0863BD39401794C12"
+        "OwnerKey" = "8:_9A36A5525A584FD8B1850628817A8295"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -175,6 +175,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
         "Release"
         {
@@ -191,6 +199,22 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.5"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.5 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.5"
+                    }
+                }
+            }
         }
     }
     "Deployable"
@@ -507,7 +531,7 @@
             }
             "{3C67513D-01DD-4637-8A68-80971EB9504F}:_9A94275787134BCDA98CA2A8DBE903EF"
             {
-            "DefaultLocation" = "8:[ProgramFilesFolder][Manufacturer]\\[ProductName]"
+            "DefaultLocation" = "8:[ProgramFiles64Folder][Manufacturer]\\[ProductName]"
             "Name" = "8:#1925"
             "AlwaysCreate" = "11:FALSE"
             "Condition" = "8:"
@@ -556,13 +580,13 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:JSonToCSV"
         "ProductCode" = "8:{3686748F-F569-4657-85F5-237792BA6ED1}"
-        "PackageCode" = "8:{03B468D4-77A0-4BD8-A8A7-9514584F93E2}"
+        "PackageCode" = "8:{C28D4946-C4AE-4E7B-806F-D4844E568B65}"
         "UpgradeCode" = "8:{F46517C7-96B5-4C39-92AB-EF6960A9292B}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:FALSE"
         "DetectNewerInstalledVersion" = "11:TRUE"
-        "InstallAllUsers" = "11:FALSE"
+        "InstallAllUsers" = "11:TRUE"
         "ProductVersion" = "8:1.0.0"
         "Manufacturer" = "8:PiweeSoft"
         "ARPHELPTELEPHONE" = "8:"
@@ -573,11 +597,11 @@
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:"
         "ARPURLINFOABOUT" = "8:"
-        "ARPPRODUCTICON" = "8:"
+        "ARPPRODUCTICON" = "8:_E4B114EE48B1414797D9C49752021665"
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
-        "TargetPlatform" = "3:0"
+        "TargetPlatform" = "3:1"
         "PreBuildEvent" = "8:"
         "PostBuildEvent" = "8:"
         "RunPostBuildEvent" = "3:0"
@@ -676,7 +700,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_1A43DEACE6FC4A5C8A55991D58436476"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_DC2110B92A0045C5A7BE2081CFD13547"
             {
             "Name" = "8:JSonToCSV"
             "Arguments" = "8:"
@@ -684,7 +708,7 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_EADC72F1DF3946D0863BD39401794C12"
+            "Target" = "8:_9A36A5525A584FD8B1850628817A8295"
             "Folder" = "8:_C475A5ADFF6A4750A662D7FFED57C4F8"
             "WorkingFolder" = "8:_9A94275787134BCDA98CA2A8DBE903EF"
             "Icon" = "8:_E4B114EE48B1414797D9C49752021665"
@@ -1089,37 +1113,9 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_5BBDBFDADBF84F698620F93FCD8981F9"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_9A36A5525A584FD8B1850628817A8295"
             {
-            "SourcePath" = "8:"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_9A94275787134BCDA98CA2A8DBE903EF"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:RuntimeImplementation"
-            "OutputProjectGuid" = "8:{31E3455B-012B-46E5-A3D5-4C2679C761D4}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_EADC72F1DF3946D0863BD39401794C12"
-            {
-            "SourcePath" = "8:..\\JSonToCSV\\obj\\Debug\\JSonToCSV.exe"
+            "SourcePath" = "8:..\\JSonToCSV\\obj\\x64\\Release\\JSonToCSV.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_9A94275787134BCDA98CA2A8DBE903EF"
