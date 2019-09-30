@@ -12,7 +12,7 @@ It can convert simple JSON files to CSV.
 
 ## WHERE TO DOWNLOAD
 
-## HOW TO USE
+Download the binary in [JSonToCSV Releases](https://github.com/philippewaty/JsonToCSV/releases)
 
 ## SAMPLE
 [
