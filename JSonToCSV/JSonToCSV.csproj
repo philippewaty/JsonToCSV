@@ -194,6 +194,12 @@
     <None Include="Resources\Papirus-Team-Papirus-Mimetypes-App-json.ico" />
     <None Include="Resources\json-file.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LinkControl\LinkControl.csproj">
+      <Project>{EC1BAF7A-604D-4875-AEE5-D56CF7261119}</Project>
+      <Name>LinkControl</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

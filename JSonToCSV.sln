@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSonToCSV", "JSonToCSV\JSon
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "JSonToCSVSetup", "JSonToCSVSetup\JSonToCSVSetup.vdproj", "{CC567A01-C999-4F17-92DD-FF99C1EE9244}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkControl", "LinkControl\LinkControl.csproj", "{EC1BAF7A-604D-4875-AEE5-D56CF7261119}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,18 @@ Global
 		{CC567A01-C999-4F17-92DD-FF99C1EE9244}.Release|x64.Build.0 = Release
 		{CC567A01-C999-4F17-92DD-FF99C1EE9244}.Release|x86.ActiveCfg = Release
 		{CC567A01-C999-4F17-92DD-FF99C1EE9244}.Release|x86.Build.0 = Release
+		{EC1BAF7A-604D-4875-AEE5-D56CF7261119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1BAF7A-604D-4875-AEE5-D56CF7261119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1BAF7A-604D-4875-AEE5-D56CF7261119}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EC1BAF7A-604D-4875-AEE5-D56CF7261119}.Debug|x64.Build.0 = Debug|Any CPU
+		{EC1BAF7A-604D-4875-AEE5-D56CF7261119}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EC1BAF7A-604D-4875-AEE5-D56CF7261119}.Debug|x86.Build.0 = Debug|Any CPU
+		{EC1BAF7A-604D-4875-AEE5-D56CF7261119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1BAF7A-604D-4875-AEE5-D56CF7261119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC1BAF7A-604D-4875-AEE5-D56CF7261119}.Release|x64.ActiveCfg = Release|Any CPU
+		{EC1BAF7A-604D-4875-AEE5-D56CF7261119}.Release|x64.Build.0 = Release|Any CPU
+		{EC1BAF7A-604D-4875-AEE5-D56CF7261119}.Release|x86.ActiveCfg = Release|Any CPU
+		{EC1BAF7A-604D-4875-AEE5-D56CF7261119}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
