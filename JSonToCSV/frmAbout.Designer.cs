@@ -34,9 +34,9 @@
       this.lblAuthor = new System.Windows.Forms.Label();
       this.lblAuthorValue = new System.Windows.Forms.Label();
       this.lblEmail = new System.Windows.Forms.Label();
-      this.lblEmailValue = new System.Windows.Forms.Label();
+      this.lblEmailValue = new LinkControl.LinkControl();
       this.lblWebsite = new System.Windows.Forms.Label();
-      this.lblWebsiteValue = new System.Windows.Forms.Label();
+      this.lblWebsiteValue = new LinkControl.LinkControl();
       this.btnQuit = new System.Windows.Forms.Button();
       this.lblCredits = new System.Windows.Forms.Label();
       this.lblCreditsValue = new System.Windows.Forms.Label();
@@ -200,9 +200,9 @@
     private System.Windows.Forms.Label lblAuthor;
     private System.Windows.Forms.Label lblAuthorValue;
     private System.Windows.Forms.Label lblEmail;
-    private System.Windows.Forms.Label lblEmailValue;
+    private LinkControl.LinkControl lblEmailValue;
     private System.Windows.Forms.Label lblWebsite;
-    private System.Windows.Forms.Label lblWebsiteValue;
+    private LinkControl.LinkControl lblWebsiteValue;
     private System.Windows.Forms.Button btnQuit;
     private System.Windows.Forms.Label lblCredits;
     private System.Windows.Forms.Label lblCreditsValue;

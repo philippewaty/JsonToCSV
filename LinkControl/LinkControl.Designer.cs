@@ -39,12 +39,13 @@
       this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mnuCopy});
       this.contextMenuStrip1.Name = "contextMenuStrip1";
-      this.contextMenuStrip1.Size = new System.Drawing.Size(103, 26);
+      this.contextMenuStrip1.ShowImageMargin = false;
+      this.contextMenuStrip1.Size = new System.Drawing.Size(78, 26);
       // 
       // mnuCopy
       // 
       this.mnuCopy.Name = "mnuCopy";
-      this.mnuCopy.Size = new System.Drawing.Size(102, 22);
+      this.mnuCopy.Size = new System.Drawing.Size(77, 22);
       this.mnuCopy.Text = "Copy";
       this.mnuCopy.Click += new System.EventHandler(this.mnuCopy_Click);
       // 
