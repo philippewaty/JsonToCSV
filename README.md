@@ -16,6 +16,7 @@ It can convert simple JSON files to CSV.
 Download the binary in [JSonToCSV Releases](https://github.com/philippewaty/JsonToCSV/releases)
 
 ## SAMPLE
+```JSON
 [
     {
     "Id": 1,
@@ -28,13 +29,13 @@ Download the binary in [JSonToCSV Releases](https://github.com/philippewaty/Json
     {
     "Id": 3,
     "Name": "Bill"
-    }
-,
+    },
     {
     "Id": 4,
     "Name": "John"
     }
 ]
+```
 <br><br>
 It produce this:<br>
 Id;Name<br>
