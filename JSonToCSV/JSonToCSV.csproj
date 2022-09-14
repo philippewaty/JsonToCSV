@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>JSonToCSV</RootNamespace>
     <AssemblyName>JSonToCSV</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>
@@ -77,34 +77,28 @@
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ChoETL, Version=1.1.0.4, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\ChoETL.1.1.0.4\lib\net45\ChoETL.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="ChoETL, Version=1.2.1.48, Culture=neutral, PublicKeyToken=8138733ed69d3172, processorArchitecture=MSIL">
+      <HintPath>..\packages\ChoETL.1.2.1.48\lib\net45\ChoETL.dll</HintPath>
     </Reference>
-    <Reference Include="ChoETL.JSON, Version=1.1.0.4, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\ChoETL.JSON.1.1.0.4\lib\net45\ChoETL.JSON.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="ChoETL.JSON, Version=1.2.1.48, Culture=neutral, PublicKeyToken=f6c38caf4a08e6a4, processorArchitecture=MSIL">
+      <HintPath>..\packages\ChoETL.JSON.1.2.1.48\lib\net45\ChoETL.JSON.dll</HintPath>
     </Reference>
-    <Reference Include="DotNetZip, Version=1.11.0.0, Culture=neutral, PublicKeyToken=6583c7c814667745, processorArchitecture=MSIL">
-      <HintPath>..\packages\DotNetZip.1.11.0\lib\net20\DotNetZip.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="DotNetZip, Version=1.16.0.0, Culture=neutral, PublicKeyToken=6583c7c814667745, processorArchitecture=MSIL">
+      <HintPath>..\packages\DotNetZip.1.16.0\lib\net40\DotNetZip.dll</HintPath>
     </Reference>
-    <Reference Include="ExceptionReporter.NET, Version=4.0.2.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\ExceptionReporter.4.0.2\lib\net40\ExceptionReporter.NET.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="ExceptionReporter.NET, Version=5.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExceptionReporter.5.0.0\lib\net40\ExceptionReporter.NET.dll</HintPath>
     </Reference>
-    <Reference Include="Handlebars, Version=1.8.1.0, Culture=neutral, PublicKeyToken=22225d0bf33cd661, processorArchitecture=MSIL">
-      <HintPath>..\packages\Handlebars.Net.1.9.0\lib\net40\Handlebars.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="Handlebars, Version=2.1.2.0, Culture=neutral, PublicKeyToken=22225d0bf33cd661, processorArchitecture=MSIL">
+      <HintPath>..\packages\Handlebars.Net.2.1.2\lib\net46\Handlebars.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="PresentationFramework" />
-    <Reference Include="SimpleMapi, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Simple-MAPI.NET.1.1.0\lib\net20\SimpleMapi.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="SimpleMapi.NET, Version=1.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Simple-MAPI.NET.1.2.0\lib\net40\SimpleMapi.NET.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
@@ -115,6 +109,9 @@
     <Reference Include="System.Management" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\netstandard1.0\System.ValueTuple.dll</HintPath>
+    </Reference>
     <Reference Include="System.Web" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
