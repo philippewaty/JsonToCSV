@@ -8,7 +8,7 @@ It can convert simple JSON files to CSV.
 [![Release](https://img.shields.io/github/release/philippewaty/JSonToCSV.svg?style=flat-square)](https://github.com/philippewaty/JSonToCSV/releases)
 
 
-<p align="center"><img align="center" src="/Screenshot.jpg?raw=true" alt="Screenshot"></p>
+<p align="center"><img align="center" src="./Screenshot.jpg?raw=true" alt="Screenshot"></p>
 
 
 ## WHERE TO DOWNLOAD
