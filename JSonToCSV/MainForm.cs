@@ -1,8 +1,8 @@
-﻿using ChoETL;
-using System;
+﻿using System;
 using System.Windows.Forms;
 using System.IO;
 using System.Reflection;
+using ChoETL;
 
 namespace JSonToCSV
 {
@@ -122,7 +122,7 @@ namespace JSonToCSV
       }
       catch (Exception ex)
       {
-        Program.ShowError(ex);
+        Program.ShowError(ex, "btnConvert Click");
       }
     }
 
